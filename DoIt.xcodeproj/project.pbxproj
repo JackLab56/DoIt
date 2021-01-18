@@ -14,6 +14,7 @@
 		F421895225B6320300BB5CF8 /* DoIt.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F421895025B6320300BB5CF8 /* DoIt.xcdatamodeld */; };
 		F421895425B6320500BB5CF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F421895325B6320500BB5CF8 /* Assets.xcassets */; };
 		F421895725B6320500BB5CF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F421895525B6320500BB5CF8 /* LaunchScreen.storyboard */; };
+		F421896025B638F500BB5CF8 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = F421895F25B638F500BB5CF8 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F421895325B6320500BB5CF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F421895625B6320500BB5CF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F421895825B6320500BB5CF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F421895F25B638F500BB5CF8 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F421894725B6320300BB5CF8 /* AppDelegate.swift */,
 				F421894925B6320300BB5CF8 /* SceneDelegate.swift */,
 				F421894B25B6320300BB5CF8 /* ViewController.swift */,
+				F421895F25B638F500BB5CF8 /* Task.swift */,
 				F421894D25B6320300BB5CF8 /* Main.storyboard */,
 				F421895325B6320500BB5CF8 /* Assets.xcassets */,
 				F421895525B6320500BB5CF8 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				F421894C25B6320300BB5CF8 /* ViewController.swift in Sources */,
 				F421895225B6320300BB5CF8 /* DoIt.xcdatamodeld in Sources */,
+				F421896025B638F500BB5CF8 /* Task.swift in Sources */,
 				F421894825B6320300BB5CF8 /* AppDelegate.swift in Sources */,
 				F421894A25B6320300BB5CF8 /* SceneDelegate.swift in Sources */,
 			);
